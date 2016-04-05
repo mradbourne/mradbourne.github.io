@@ -17,8 +17,3 @@ Some things you may not know about me:
 * I also make [movies](https://vimeo.com/72029612) and [music](https://soundcloud.com/mradbourne/sets/swandive-ep).
 * I have worked with [children](/projects/affect-ed/), but not animals.
 
-## Skills
-
-<ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-</ul>

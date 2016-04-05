@@ -9,12 +9,12 @@ picture: 'assets/images/profile.jpg'
 url: http://radbourne.me
 # your url: http://USERNAME.github.io
 
-permalink: /:title/
+permalink: /blog/:title/
 
 markdown: kramdown
 highlighter: rouge
 
-analytics-google: 'UA-MYANALYTICS'
+analytics-google: 'UA-19813149-11'
 
 # if you don't want comments in your posts, set to false
 disqus: radbourne
@@ -25,7 +25,7 @@ twitter: mradbourne
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: mradbourne
+linkedin: in/mradbourne
 # youtube: myyoutube
 # spotify: myspotify
 github: mradbourne
