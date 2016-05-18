@@ -8,7 +8,7 @@ projects: true
 description: ""
 ---
 
-![CardSortR user test](/images/project_cardsortr.jpg)
+![CardSortR user test](/assets/images/project_cardsortr.jpg)
 
 A PHP-based collaborative card-sorting tool, coded from scratch. The visual design was taken from a Photoshop file created by someone else.
 
