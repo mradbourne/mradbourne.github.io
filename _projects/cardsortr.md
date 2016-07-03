@@ -1,10 +1,8 @@
 ---
 title: "CardSortR"
-layout: post
+layout: project
 date: 2016-01-04 00:00
 tag: build
-img: indigo/indigo.png
-projects: true
 description: ""
 ---
 

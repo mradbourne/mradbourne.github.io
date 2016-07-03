@@ -1,10 +1,8 @@
 ---
 title: "The Old Tailor's Shop"
-layout: post
+layout: project
 date: 2016-01-06 00:00
 tag: build
-img: indigo/indigo.png
-projects: true
 description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
 ---
 

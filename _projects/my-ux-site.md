@@ -1,10 +1,8 @@
 ---
 title: "My old UX site"
-layout: post
+layout: project
 date: 2016-01-05 00:00
 tag: build
-img: indigo/indigo.png
-projects: true
 description: ""
 ---
 

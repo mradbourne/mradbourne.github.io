@@ -1,10 +1,8 @@
 ---
 title: "The Gardeners"
-layout: post
+layout: project
 date: 2016-01-02 00:00
 tag: build
-img: indigo/indigo.png
-projects: true
 description: ""
 ---
 

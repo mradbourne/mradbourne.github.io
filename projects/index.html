@@ -6,16 +6,13 @@ title: Projects
 {% include header.html %}
 
 <section class="list">
-    {% for post in site.posts %}
-        {% if post.projects %}
-            <div class="item {% if post.star == true %}star{% endif %}">
-                <a class="url" href="{{ site.url }}{{ post.url }}">
-                    <aside><time datetime="{{ post.date | date:"%d-%m-%Y" }}">{{ post.date | date: "%b %d %Y" }}</time></aside>
-                    {{ post.jemoji }}<h3 class="title">{{ post.title }}</h3>
-                </a>
-            </div>
-        {% endif %}
-    {% endfor %}
+  {% for project in site.projects %}
+    <div class="item {% if post.star == true %}star{% endif %}">
+      <a class="url" href="{{ site.url }}{{ project.url }}">
+        <h3 class="title">{{ project.title }}</h3>
+      </a>
+    </div>
+  {% endfor %}
 </section>
 
 {% include footer.html %}
