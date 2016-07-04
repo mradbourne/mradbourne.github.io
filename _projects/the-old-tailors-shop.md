@@ -10,6 +10,6 @@ description: "This is a simple and minimalist template for Jekyll for those who 
 
 A holiday cottage website, completely hand-coded aside from a slider plugin on the homepage.
 
-[View live example](http://files.radbourne.me/examples/theoldtailorsshop/)
+[View live example](http://www.theoldtailorsshop.co.uk)
 
-[View source on GitHub](https://github.com/mradbourne/portfolio_theoldtailorsshop)
+[View source on GitHub](https://github.com/mradbourne/the-old-tailors-shop)
