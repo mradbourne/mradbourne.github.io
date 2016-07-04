@@ -10,4 +10,4 @@ description: ""
 
 A responsive build that I worked on, with some tricky responsive image adjustments.
 
-[View live site](http://the-gardeners.net)
+[View source on GitHub](https://github.com/mradbourne/the-gardeners)
