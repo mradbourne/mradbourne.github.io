@@ -5,8 +5,8 @@ title: UX
 ---
 {% include header.html %}
 
-<h2>UX projects</h2>
 <section class="list">
+  <h2>UX projects</h2>
   {% for project in site.ux_projects %}
     <div class="item {% if post.star == true %}star{% endif %}">
       <a class="url" href="{{ site.url }}{{ project.url }}">
