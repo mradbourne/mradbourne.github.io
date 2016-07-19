@@ -14,6 +14,9 @@ permalink: /blog/:title/
 collections:
   projects:
     output: true
+  ux_projects:
+    output: true
+    permalink: /ux/:path/
 
 markdown: kramdown
 highlighter: rouge
