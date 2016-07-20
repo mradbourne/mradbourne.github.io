@@ -8,6 +8,8 @@ description: ""
 
 **I have conducted extensive work for Royal Dutch Shell over the past 3 years. Working closely with large development teams at CGI and Wipro, I have helped Shell design and build large-scale business-to-business software. This software provides businesses worldwide to learn about, buy and track orders of fuels and lubricants.**
 
+![Shell B2B systems](/assets/images/ux_shell-b2b.jpg)
+
 I'd like to tell you about my work for Shell's fuel card system 'Shell Card Online' (SCOL) although please feel free to get in touch for more information on other projects. This system allows Shell customers to order new fuel cards and track and manage their existing ones.
 
 Through the redesign of SCOL, we achieved:

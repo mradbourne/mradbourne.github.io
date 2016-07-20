@@ -8,7 +8,10 @@ description: ""
 
 **In 2013, the merger between Lloyds Bank and TSB ended, giving TSB the opportunity to create a new and exciting brand geared towards "local banking for Britain". I was part of the TSB public site redesign team and led the design of the branch locator.**
 
+![TSB branch locator](/assets/images/ux_tsb-branch-locator.jpg)
+
 In addition to many expected features of a bank branch locator, we were asked to:
+
 - Embody TSB's tagline "Local banking for Britain."
 - Demonstrate that TSB is "different from other banks."
 

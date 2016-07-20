@@ -8,6 +8,8 @@ description: ""
 
 **Aviva had the vision of creating a consolidated control panel for customer to manage all of their policies from their mobile phone. I worked on-site with the team at Aviva for three weeks in order to help them deliver a cross-platform UI solution for the MyAviva app ([iOS](https://itunes.apple.com/app/id852352703) and [Android](https://play.google.com/store/apps/details?id=co.uk.aviva.myavivaapp)).**
 
+![MyAviva](/assets/images/ux_myaviva.jpg)
+
 We had the opportunity to more than just bring the web experience over into to an app. The client was keen to explore designs that made innovative use of mobile device hardware, be this touchscreen interactions or other device hardware that only an app can access.
 
 ## My role

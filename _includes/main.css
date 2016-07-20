@@ -301,7 +301,7 @@ h4 {
   font-size: 1.6rem;
 }
 a {
-  color: #4b0082;
+  color: #9C27B0;
   text-decoration: underline;
 }
 p {
@@ -487,6 +487,10 @@ pre {
   box-shadow: #fff 0 0 0 5px;
   border-radius: 3px;
 }
+.projects > .list > h2,
+.ux > .list > h2 {
+  color: #aaa;
+}
 .home > .list > .item,
 .blog > .list > .item,
 .projects > .list > .item,
@@ -519,7 +523,7 @@ pre {
 .blog > .list > .item:hover > .url > .title,
 .projects > .list > .item:hover > .url > .title,
 .ux > .list > .item:hover > .url > .title {
-  color: #4b0082;
+  color: #9C27B0;
 }
 .home > .list aside,
 .blog > .list aside,
@@ -672,7 +676,7 @@ pre {
   font-size: 1.6rem;
 }
 .tag-list > .list > .item:hover > .url > .title {
-  color: #4b0082;
+  color: #9C27B0;
 }
 .tag-list > .list aside {
   position: relative;
@@ -821,7 +825,7 @@ pre {
   margin: 0;
 }
 .footer-main > .link > .icon:hover {
-  fill: #4b0082 !important;
+  fill: #9C27B0 !important;
 }
 .footer-main > .extra {
   color: #aaa;
@@ -1143,7 +1147,7 @@ pre {
   width: 35px;
 }
 .social-links > .link:hover > .icon {
-  fill: #4b0082;
+  fill: #9C27B0;
 }
 .social-links > .link:hover:before {
   opacity: 1;

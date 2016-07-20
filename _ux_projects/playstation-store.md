@@ -8,6 +8,8 @@ description: ""
 
 **Mid-way through the PlayStation 3's lifecycle, Sony embarked on improving the digital stores. I was involved in both formative and summative research projects to help Sony understand their web store customers and iron out usability issues with their console store prototype.**
 
+![Sony PlayStation store](/assets/images/ux_playstation-store.jpg)
+
 ## My role
 Research planner and moderator.
 

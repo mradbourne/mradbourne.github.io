@@ -8,6 +8,8 @@ description: ""
 
 **An international news corporation commissioned me to understand how to improve the multi-channel newspaper publishing workflow. The organisation was moving from a print-first workflow to a platform-agnostic one and this involved a change to the content authoring system as well as internal processes.**
 
+![Multi-channel newspaper publishing](/assets/images/ux_newspaper.jpg)
+
 The new system had been rolled out in advance of the new workflow so I spent time with stakeholders and the editorial team to understand how this software accommodated the current tablet workflow.
 
 I focussed on investigating the usability, efficiency and communication between users and departments and the end goal of the project was to help my primary client communicate findings and recommendations around this to the wider organisation.

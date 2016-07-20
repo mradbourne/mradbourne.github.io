@@ -10,6 +10,6 @@ description: ""
 
 A Sinatra-based holiday cottage website, hand-coded aside from a slider plugin on the homepage.
 
-[View live example](http://www.theoldtailorsshop.co.uk)
+[View live site](http://www.theoldtailorsshop.co.uk)
 
 [View source on GitHub](https://github.com/mradbourne/the-old-tailors-shop)
