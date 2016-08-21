@@ -84,7 +84,7 @@ The third and final engagement with customers was a set of task-based prototype 
 ### <a name="documentation"></a>Design documentation
 After conducting this research, we iterated the prototype to address issues uncovered in testing and provided the designs to CGI in the form of annotated wireframes.
 
-![Prototype](/assets/images/shell-b2b-wireframe2.gif)
+![Prototype](/assets/images/ux_shell-b2b-wireframe2.gif)
 
 ## Project challenges
 
