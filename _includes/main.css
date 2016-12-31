@@ -301,7 +301,7 @@ h4 {
   font-size: 1.6rem;
 }
 a {
-  color: #9C27B0;
+  color: #292929;
   text-decoration: underline;
 }
 p {
@@ -523,7 +523,7 @@ pre {
 .blog > .list > .item:hover > .url > .title,
 .projects > .list > .item:hover > .url > .title,
 .ux > .list > .item:hover > .url > .title {
-  color: #9C27B0;
+  color: #292929;
 }
 .home > .list aside,
 .blog > .list aside,
@@ -676,7 +676,7 @@ pre {
   font-size: 1.6rem;
 }
 .tag-list > .list > .item:hover > .url > .title {
-  color: #9C27B0;
+  color: #292929;
 }
 .tag-list > .list aside {
   position: relative;
@@ -825,7 +825,7 @@ pre {
   margin: 0;
 }
 .footer-main > .link > .icon:hover {
-  fill: #9C27B0 !important;
+  fill: #292929 !important;
 }
 .footer-main > .extra {
   color: #aaa;
@@ -1147,7 +1147,7 @@ pre {
   width: 35px;
 }
 .social-links > .link:hover > .icon {
-  fill: #9C27B0;
+  fill: #292929;
 }
 .social-links > .link:hover:before {
   opacity: 1;
