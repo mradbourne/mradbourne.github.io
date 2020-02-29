@@ -6,7 +6,7 @@ bio: 'London-based web developer, digital exorcist/UXer and game dev enthusiast.
 external-image: false
 picture: 'assets/images/matt-radbourne_512x512.jpg'
 
-url: http://radbourne.net
+url: http://www.radbourne.net
 # your url: http://USERNAME.github.io
 
 permalink: /blog/:title/
