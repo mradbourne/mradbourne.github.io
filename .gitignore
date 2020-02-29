@@ -1,7 +1,8 @@
+node_modules/
+vendor/
+.idea/
 .DS_Store
 .sass-cache
-node_modules
-vendor
 npm-debug.log
 .bundle
 _site
