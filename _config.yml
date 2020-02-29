@@ -1,12 +1,12 @@
 # main text of home
 name: Matt Radbourne
-bio: 'London-based web developer, tech enthusiast and digital exorcist.'
+bio: 'London-based web developer, digital exorcist/UXer and game dev enthusiast.'
 
 # if it's an external image, update below for true
 external-image: false
 picture: 'assets/images/matt-radbourne_512x512.jpg'
 
-url: http://radbourne.me
+url: http://radbourne.net
 # your url: http://USERNAME.github.io
 
 permalink: /blog/:title/
