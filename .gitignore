@@ -1,6 +1,6 @@
+/.idea/
 node_modules
 vendor
-.idea
 .DS_Store
 .sass-cache
 npm-debug.log
